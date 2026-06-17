@@ -1,0 +1,12 @@
+// //route parameters
+// app.get('/user/:name',(req, res)=>{
+// const name= req.params.name;
+// res.send(`welcome ${name}`)
+// })
+
+// //query strings
+// app.get('/search',(req, res)=>{
+//     const keywords = req.query.keywords;
+//     res.send(`sending ${keywords}`)
+
+// })
